@@ -12,7 +12,7 @@ function firstChar(text) {
 		}
 	if(text.length>1)
 	{
-		return text.substring(0,j-1);
+		return text[0];
 	}
 	else
 	{
